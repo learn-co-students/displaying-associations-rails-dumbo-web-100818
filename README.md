@@ -4,6 +4,7 @@
 
 After this lesson, you should be able to...
 
+
 1. Create a `has_many` and `belongs_to` association.
 2. Build associated data through the console and `db/seeds.rb`.
 3. Query for associated data using methods provided by association.
